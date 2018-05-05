@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Con_4x2 New DesignItemId=Con_5x2
+Change Component Footprint: Designator=P2 Old Footprint=Con_4_2 New Footprint=Con_5x2
+Change Component Comment : Designator=P2 Old Comment=Con_4x2 New Comment=Con_5x2
+Added Pin To Net: NetName=GND Pin=P2-9
+Added Pin To Net: NetName=GND Pin=P2-10
+Added Room: Name=control
+Added Room: Name=control_2
+Added Room: Name=Res
+Added Room: Name=Supply
+Added Room: Name=Task

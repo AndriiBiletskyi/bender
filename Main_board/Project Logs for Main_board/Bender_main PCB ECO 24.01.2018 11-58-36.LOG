@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IN_1_7 Pin=D3-7
+Removed Pin From Net: NetName=IN_1_5 Pin=D3-9
+Added Pin To Net: NetName=IN_1_5 Pin=D3-7
+Added Pin To Net: NetName=IN_1_7 Pin=D3-9
+Added Room: Name=control
+Added Room: Name=control_2
+Added Room: Name=Res
+Added Room: Name=Supply
+Added Room: Name=Task

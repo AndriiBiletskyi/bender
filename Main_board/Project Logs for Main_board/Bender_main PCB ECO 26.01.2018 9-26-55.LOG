@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=IN_ADC_0 Pin=P13-1
+Removed Pin From Net: NetName=GND Pin=P13-2
+Removed Pin From Net: NetName=IN_ADC_1 Pin=P13-3
+Removed Pin From Net: NetName=GND Pin=P13-4
+Removed Pin From Net: NetName=IN_ADC_2 Pin=P13-5
+Removed Pin From Net: NetName=GND Pin=P13-6
+Removed Pin From Net: NetName=IN_ADC_3 Pin=P14-1
+Removed Pin From Net: NetName=GND Pin=P14-2
+Removed Pin From Net: NetName=IN_ADC_4 Pin=P14-3
+Removed Pin From Net: NetName=GND Pin=P14-4
+Removed Pin From Net: NetName=IN_ADC_5 Pin=P14-5
+Removed Pin From Net: NetName=GND Pin=P14-6
+Added Pin To Net: NetName=GND Pin=P13-1
+Added Pin To Net: NetName=IN_ADC_0 Pin=P13-2
+Added Pin To Net: NetName=GND Pin=P13-3
+Added Pin To Net: NetName=IN_ADC_1 Pin=P13-4
+Added Pin To Net: NetName=GND Pin=P13-5
+Added Pin To Net: NetName=IN_ADC_2 Pin=P13-6
+Added Pin To Net: NetName=GND Pin=P14-1
+Added Pin To Net: NetName=IN_ADC_3 Pin=P14-2
+Added Pin To Net: NetName=GND Pin=P14-3
+Added Pin To Net: NetName=IN_ADC_4 Pin=P14-4
+Added Pin To Net: NetName=GND Pin=P14-5
+Added Pin To Net: NetName=IN_ADC_5 Pin=P14-6
+Added Member To Class: ClassName=Supply Member=Component P10 Con_2x2
+Added Room: Name=control
+Added Room: Name=control_2
+Added Room: Name=Res
+Added Room: Name=Supply
+Added Room: Name=Task

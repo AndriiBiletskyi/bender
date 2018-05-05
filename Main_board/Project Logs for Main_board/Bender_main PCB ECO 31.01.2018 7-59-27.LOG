@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+24V Pin=C32-1
+Removed Pin From Net: NetName=+24V Pin=C33-1
+Removed Pin From Net: NetName=+24V Pin=C34-1
+Removed Pin From Net: NetName=+24V Pin=C35-1
+Removed Member From Class: ClassName=Supply Member=C32
+Removed Member From Class: ClassName=Supply Member=C33
+Removed Member From Class: ClassName=Supply Member=C34
+Removed Member From Class: ClassName=Supply Member=C35
+Added Room: Name=control
+Added Room: Name=control_2
+Added Room: Name=Res
+Added Room: Name=Supply
+Added Room: Name=Task

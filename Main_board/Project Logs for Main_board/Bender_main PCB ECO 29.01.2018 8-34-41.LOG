@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P27
+Change Component Designator: OldDesignator=P? NewDesignator=P28
+Change Component Designator: OldDesignator=P? NewDesignator=P29
+Change Component Designator: OldDesignator=P? NewDesignator=P30
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetP30_2
+Added Pin To Net: NetName=NetP27_2 Pin=P27-2
+Added Pin To Net: NetName=NetP27_2 Pin=R89-2
+Added Pin To Net: NetName=NetP27_2 Pin=R90-2
+Added Pin To Net: NetName=NetP27_2 Pin=R91-2
+Added Pin To Net: NetName=NetP27_2 Pin=R92-2
+Added Pin To Net: NetName=NetP27_2 Pin=R93-2
+Added Pin To Net: NetName=NetP27_2 Pin=R94-2
+Added Pin To Net: NetName=NetP27_2 Pin=R95-2
+Added Pin To Net: NetName=NetP27_2 Pin=R96-2
+Added Net: Name=NetP27_2
+Added Pin To Net: NetName=NetP28_2 Pin=P28-2
+Added Pin To Net: NetName=NetP28_2 Pin=R105-2
+Added Pin To Net: NetName=NetP28_2 Pin=R106-2
+Added Pin To Net: NetName=NetP28_2 Pin=R107-2
+Added Pin To Net: NetName=NetP28_2 Pin=R127-2
+Added Pin To Net: NetName=NetP28_2 Pin=R128-2
+Added Pin To Net: NetName=NetP28_2 Pin=R129-2
+Added Pin To Net: NetName=NetP28_2 Pin=R130-2
+Added Pin To Net: NetName=NetP28_2 Pin=R131-2
+Added Net: Name=NetP28_2
+Added Pin To Net: NetName=NetP29_2 Pin=P29-2
+Added Pin To Net: NetName=NetP29_2 Pin=R98-2
+Added Pin To Net: NetName=NetP29_2 Pin=R99-2
+Added Pin To Net: NetName=NetP29_2 Pin=R100-2
+Added Pin To Net: NetName=NetP29_2 Pin=R101-2
+Added Pin To Net: NetName=NetP29_2 Pin=R102-2
+Added Pin To Net: NetName=NetP29_2 Pin=R103-2
+Added Pin To Net: NetName=NetP29_2 Pin=R104-2
+Added Net: Name=NetP29_2
+Added Member To Class: ClassName=Res Member=Component P27 Con_3
+Added Member To Class: ClassName=Res Member=Component P28 Con_3
+Added Member To Class: ClassName=Res Member=Component P29 Con_3

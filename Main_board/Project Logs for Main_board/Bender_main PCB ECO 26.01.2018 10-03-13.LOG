@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=SPI2_MOSI Pin=D3-54
+Added Room: Name=control
+Added Room: Name=control_2
+Added Room: Name=Res
+Added Room: Name=Supply
+Added Room: Name=Task

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=OT10 Pin=P7-1
+Removed Pin From Net: NetName=OT10_1 Pin=P7-2
+Removed Pin From Net: NetName=OT11 Pin=P7-3
+Removed Pin From Net: NetName=OT11_1 Pin=P7-4
+Added Pin To Net: NetName=OT10_1 Pin=P7-1
+Added Pin To Net: NetName=OT10 Pin=P7-2
+Added Pin To Net: NetName=OT11_1 Pin=P7-3
+Added Pin To Net: NetName=OT11 Pin=P7-4
+Added Room: Name=control
+Added Room: Name=control_2
+Added Room: Name=Res
+Added Room: Name=Supply
+Added Room: Name=Task

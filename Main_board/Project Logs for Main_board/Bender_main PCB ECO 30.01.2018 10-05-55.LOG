@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=O_CP Pin=D20-5
+Removed Pin From Net: NetName=O_STR Pin=D20-6
+Added Pin To Net: NetName=O_STR Pin=D20-5
+Added Pin To Net: NetName=O_CP Pin=D20-6
+Added Room: Name=control
+Added Room: Name=control_2
+Added Room: Name=Res
+Added Room: Name=Supply
+Added Room: Name=Task
